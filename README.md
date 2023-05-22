@@ -88,7 +88,7 @@ Bark supports various languages out-of-the-box and automatically determines lang
 ```python
 
 text_prompt = """
-    추석은 내가 가장 좋아하는 명절이다. 나는 며칠 동안 휴식을 취하고 친구 및 가족과 시간을 보낼 수 있습니다.
+    Hola mundo mi nombre es leandro
 """
 audio_array = generate_audio(text_prompt)
 ```
